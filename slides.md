@@ -56,12 +56,22 @@ Our house is earth bermed and heated with wood and sunshine. We have a rain catc
 ![pic](pics/IMG_0847.jpeg)
 ![pic](pics/IMG_0561.jpeg)
 
+## Goal
+To live a sustainable life in a healthy forest that supports a diverse web of life and works with fire.
+
+![pic](pics/IMG_1849.jpeg)
+![pic](pics/IMG_1913.jpeg)
+
 ## Projects
 * Remove fencing
-* keep thinning
-* sow pollinator seeds
-* sculpture path
-* add roads
+* Build a wood fired kiln
+* Keep thinning (We've got funding to thin all 80 acres in Lomakatsi's West Bear Project)
+* Sow pollinator seeds
+* Sculpture path
+* Add roads and trails to facilitate prescribed burning
 
-![fence](pics/IMG_0842.jpeg) ![fence](pics/thumb_IMG_2173_1024.jpeg)
+
+![pic](pics/IMG_0842.jpeg)
+![pic](pics/thumb_IMG_2173_1024.jpeg)
+![pic](pics/sculpture.jpeg)
 
