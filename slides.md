@@ -20,6 +20,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 # Woodland Sun Land Steward Presentation
 
 We have 80 acres 
+![Aerial Photo](https://raw.githubusercontent.com/montyz/landstewards/main/pics/Aerial%20Photo.pdf)
 
 ## Fire protection
 
