@@ -57,7 +57,11 @@ Our house is earth bermed and heated with wood and sunshine. We have a rain catc
 ![pic](pics/IMG_0561.jpeg)
 
 ## Projects
-Remove fencing, keep thinning, sow pollinator seeds, sculpture path, 
-![fence](pics/IMG_0842.jpeg)
-![fence](pics/IMG_0842.jpeg)
+* Remove fencing
+* keep thinning
+* sow pollinator seeds
+* sculpture path
+* add roads
+
+![fence](pics/IMG_0842.jpeg) ![fence](pics/thumb_IMG_2173_1024.jpeg)
 
