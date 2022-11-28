@@ -41,7 +41,7 @@ You can use common [Markdown](https://github.com/adam-p/markdown-here/wiki/Markd
 | Item 1     | Item 2     |
 
 
-Images:
+My Images:
 
 ![https://raw.githubusercontent.com/montyz/landstewards/main/pics/IMG_0094.jpeg](https://raw.githubusercontent.com/montyz/landstewards/main/pics/IMG_0094.jpeg)
 
