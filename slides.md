@@ -43,5 +43,5 @@ You can use common [Markdown](https://github.com/adam-p/markdown-here/wiki/Markd
 
 Images:
 
-![images](https://github.com/montyz/landstewards/blob/main/pics/IMG_0620.jpeg)
+![images](https://github.com/montyz/landstewards/raw/main/pics/IMG_0094.jpeg)
 
