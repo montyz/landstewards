@@ -20,8 +20,8 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 # Woodland Sun Land Steward Presentation
 
 We have 80 acres 
-![Aerial Photo](https://raw.githubusercontent.com/montyz/landstewards/main/pics/Aerial%20Photo.pdf)
-
+![Aerial Photo](https://raw.githubusercontent.com/montyz/landstewards/main/pics/Aerial.jpg)
+[Google Earth link](https://earth.google.com/web/search/980+Poormans+Creek+Road,+Jacksonville,+OR/@42.27458405,-122.95706143,761.37107052a,707.43693216d,35y,148.04828281h,0t,0r/data=CigiJgokCb3hg015yDdAEbnhg015yDfAGd4P3Tbzs0NAIS29zFVDxlDA)
 ## Fire protection
 
 ## Solar house wood heat
