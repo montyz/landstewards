@@ -41,3 +41,5 @@ One of our primary goals moving here is to preserve and enhance wildlife habitat
 ![house](pics/IMG_0096.jpeg)
 ![house](pics/IMG_0620.jpeg)
 ![house](pics/IMG_1657.jpeg)
+
+Our house is earth bermed and 
