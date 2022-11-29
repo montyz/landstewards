@@ -15,6 +15,7 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
+import: https://raw.githubusercontent.com/LiaTemplates/Fullscreen/0.0.1/README.md
 -->
 
 # Woodland Sun Land Steward Presentation
@@ -57,10 +58,12 @@ Our house is earth bermed and heated with wood and sunshine. We have a rain catc
 ![pic](pics/IMG_0561.jpeg)
 
 ## Goal
-To live a sustainable life in a healthy forest that supports a diverse web of life and works with fire.
+To live sustainably in a healthy forest that supports a diverse web of life and works with fire.
 
 ![pic](pics/IMG_1849.jpeg)
 ![pic](pics/IMG_1913.jpeg)
+![pic](pics/IMG_3080.jpeg)
+![pic](pics/IMG_3349.jpeg)
 
 ## Projects
 * Remove fencing
@@ -69,9 +72,10 @@ To live a sustainable life in a healthy forest that supports a diverse web of li
 * Sow pollinator seeds
 * Sculpture path
 * Add roads and trails to facilitate prescribed burning
-
+* Build soil in our garden
 
 ![pic](pics/IMG_0842.jpeg)
 ![pic](pics/thumb_IMG_2173_1024.jpeg)
 ![pic](pics/sculpture.jpeg)
+
 
