@@ -28,6 +28,13 @@ Monty Zukowski & Jane Anderson
 
 [Google Earth link](https://earth.google.com/web/search/980+Poormans+Creek+Road,+Jacksonville,+OR/@42.27458405,-122.95706143,761.37107052a,707.43693216d,35y,0h,0t,0r/data=CigiJgokCb3hg015yDdAEbnhg015yDfAGd4P3Tbzs0NAIS29zFVDxlDA)
 
+## Stewardship plan
+In 2005 we got an ODF grant to write a Stewardship Plan. My wife Jane Anderson co-authored it. So lucky me, I already had that homework done!
+
+![plan](pics/StewardshipPlan.jpg) 
+![share](pics/costshare.jpg)
+
+
 ## Soil types
 ![Soil](pics/SoilTypes.jpg)
 
@@ -36,6 +43,11 @@ Monty Zukowski & Jane Anderson
 
 Mostly oak savannah with some stands of Madrone, Ponderosa Pine and Dog Fir. Also some areas that are primarily manzanita and buck brush. 
 
+## Trees
+![pic](pics/IMG_0094.jpeg)
+![pic](pics/IMG_0847.jpeg)
+![pic](pics/IMG_0561.jpeg)
+
 ## Wildlife
 !?[Deer](pics/Deer.mp4)<!-- autoplay="true" muted="true" -->
 !?[Bears](pics/107.mp4)<!-- autoplay="true" muted="true" -->
@@ -43,7 +55,7 @@ Mostly oak savannah with some stands of Madrone, Ponderosa Pine and Dog Fir. Als
 ![wildflowers](pics/IMG_2190.jpeg)
 One of our primary goals moving here is to preserve and enhance wildlife habitat. Part of my learnings here is to remove fences and to sow pollinator plants. We have black bear, bobcat, deer, great gray owls, rough skinned newts and much more. 
 
-## Solar house wood heat
+## Solar house
 ![house](pics/IMG_0096.jpeg)
 ![house](pics/IMG_0620.jpeg)
 ![house](pics/catchment.jpeg)
@@ -51,11 +63,6 @@ One of our primary goals moving here is to preserve and enhance wildlife habitat
 ![house](pics/IMG_1657.jpeg)
 
 Our house is earth bermed and heated with wood and sunshine. We have a rain catchment system that gravity feeds our plumbing. We pump water up to it with our well.
-
-## Trees
-![pic](pics/IMG_0094.jpeg)
-![pic](pics/IMG_0847.jpeg)
-![pic](pics/IMG_0561.jpeg)
 
 ## Goal
 To live sustainably in a healthy forest that supports a diverse web of life and works with fire.
