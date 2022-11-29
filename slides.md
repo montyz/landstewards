@@ -12,6 +12,7 @@ narrator: US English Female
 comment:  Land steward presentation.
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+link:     css/my.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
