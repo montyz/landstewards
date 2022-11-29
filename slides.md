@@ -19,7 +19,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 import: https://raw.githubusercontent.com/LiaTemplates/Fullscreen/0.0.1/README.md
 -->
 
-# Woodland Sun Land Steward Presentation
+# Woodland Sun
 Monty Zukowski & Jane Anderson
 
 ![Map](pics/map.png)
@@ -40,9 +40,9 @@ In 2005 we got an ODF grant to write a Stewardship Plan. My wife Jane Anderson c
 ![Soil](pics/SoilTypes.jpg)
 
 ## Vegetation
-![Stands](pics/Stands.jpg)
+Mostly oak savannah with some stands of Madrone, Ponderosa Pine and Doug Fir. Also some areas that are primarily manzanita and buck brush. 
 
-Mostly oak savannah with some stands of Madrone, Ponderosa Pine and Dog Fir. Also some areas that are primarily manzanita and buck brush. 
+![Stands](pics/Stands.jpg)
 
 ## Trees
 ![pic](pics/IMG_0094.jpeg)
